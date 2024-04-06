@@ -51,7 +51,7 @@ for (let i = 0; i < testimonialsItem.length; i++) {
 // add click event to modal close button
 modalCloseBtn.addEventListener("click", testimonialsModalFunc);
 overlay.addEventListener("click", testimonialsModalFunc);
-*/
+
 
 
 // custom select variables
@@ -73,7 +73,7 @@ for (let i = 0; i < selectItems.length; i++) {
 
   });
 }
-
+*/
 // filter variables
 const filterItems = document.querySelectorAll("[data-filter-item]");
 
