@@ -14,7 +14,7 @@ const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 // sidebar toggle functionality for mobile
 sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); });
 
-/* 
+/*
 // testimonials variables
 const testimonialsItem = document.querySelectorAll("[data-testimonials-item]");
 const modalContainer = document.querySelector("[data-modal-container]");
@@ -73,7 +73,7 @@ for (let i = 0; i < selectItems.length; i++) {
 
   });
 }
-*/
+
 // filter variables
 const filterItems = document.querySelectorAll("[data-filter-item]");
 
@@ -111,7 +111,7 @@ for (let i = 0; i < filterBtn.length; i++) {
   });
 
 }
-
+*/
 
 
 // contact form variables
